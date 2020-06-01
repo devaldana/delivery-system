@@ -1,0 +1,5 @@
+2020-06-01 01:22:49.799 [main] INFO  com.s4n.delivery.app.Application - Starting app with args=[]
+2020-06-01 01:22:49.803 [main] INFO  com.s4n.delivery.app.Application - Loading configuration from properties file.
+2020-06-01 01:22:49.804 [main] DEBUG com.s4n.delivery.util.FileUtils - Trying to load resource from 'config.properties'
+2020-06-01 01:22:49.806 [main] DEBUG com.s4n.delivery.util.FileUtils - Loading all input files.
+2020-06-01 01:22:49.865 [main] INFO  com.s4n.delivery.service.DeliveryServiceImpl - Generating reports for 2 drones
